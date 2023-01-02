@@ -1,4 +1,4 @@
-# Project 3 - Social Media
+# Social Media Share Button
 
 https://www.hackingwithswift.com/100/22
 
