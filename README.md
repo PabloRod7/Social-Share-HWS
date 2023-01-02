@@ -1,4 +1,4 @@
-# Social Media Share Button - Haking with Swift
+# Table View Images - Haking with Swift
 
 https://www.hackingwithswift.com/100/22
 
