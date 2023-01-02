@@ -1,4 +1,5 @@
 # Table View Images - Haking with Swift
+Let users share to Facebook and Twitter by modifying project 1.
 
 https://www.hackingwithswift.com/100/22
 
